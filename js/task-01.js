@@ -1,3 +1,5 @@
+console.log('----------------------task-1----------------------');
+
 const account = {
   owner: "Mango",
   balance: 24000,
